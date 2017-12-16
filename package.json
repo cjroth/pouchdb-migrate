@@ -1,5 +1,5 @@
 {
-  "name": "pouchdb-migrate",
+  "name": "@drp/pouchdb-migrate",
   "description": "PouchDB plugin for running migrations.",
   "main": "index.js",
   "scripts": {
