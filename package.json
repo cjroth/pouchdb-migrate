@@ -42,5 +42,8 @@
   },
   "browser": {
     "crypto": false
-  }
+  },
+  "files": [
+    "lib"
+  ]
 }
