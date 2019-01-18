@@ -1,6 +1,6 @@
 {
-  "name": "@drp/pouchdb-migrate",
-  "version": "1.2.1",
+  "name": "pouchdb-migrate",
+  "version": "1.3.0",
   "description": "PouchDB plugin for running migrations.",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,9 @@
   "author": "Johannes J. Schmidt <schmidt@netzmerk.com> (http://die-tf.de/)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/eHealthAfrica/pouchdb-migrate/issues"
+    "url": "https://github.com/cjroth/pouchdb-migrate/issues"
   },
-  "homepage": "https://github.com/eHealthAfrica/pouchdb-migrate#readme",
+  "homepage": "https://github.com/cjroth/pouchdb-migrate#readme",
   "dependencies": {
     "async": "^1.5.1",
     "pouchdb-extend": "^0.1.2",
